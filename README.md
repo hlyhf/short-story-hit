@@ -3,7 +3,7 @@
 > **🌐 Language / 语言**: [中文](README.md) ｜ [English](README.en.md)
 
 > 短篇 / 短故事爆款创作方法论（**钩子 + 关系双引擎**）。把"凭感觉写"变成"按方法论造"。
-> 版本：v2.0.0 ｜ 许可：MIT ｜ 多 Agent 通用（ima.copilot / Claude Code / Cursor / SkillHub / OpenClaw …）
+> 版本：v2.1.1 ｜ 许可：MIT ｜ 多 Agent 通用（ima.copilot / Claude Code / Cursor / SkillHub / OpenClaw …）
 
 ---
 

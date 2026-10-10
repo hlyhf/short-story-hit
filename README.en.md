@@ -3,7 +3,7 @@
 > **🌐 Language / 语言**: [中文](README.md) ｜ [English](README.en.md)
 
 > A methodology for writing hit short stories / flash fiction (the **Hook + Relationship dual-engine**). Turn "writing by feel" into "building by methodology."
-> Version: v2.0.0 ｜ License: MIT ｜ Multi-Agent ready (ima.copilot / Claude Code / Cursor / SkillHub / OpenClaw …)
+> Version: v2.1.1 ｜ License: MIT ｜ Multi-Agent ready (ima.copilot / Claude Code / Cursor / SkillHub / OpenClaw …)
 
 ---
 

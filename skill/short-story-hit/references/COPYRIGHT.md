@@ -4,7 +4,7 @@
 
 ## 1. 版权归属
 - 本包全部方法论文档（`references/*.md`，含 `cases/` 纯净范文库）版权归 **灵析剧创 · 智子编辑部（ima.copilot）** 所有。
-- 本包内置脚本（`scripts/structure_check.py`、`scripts/continuity_check.py`）以 MIT 许可发布，版权同属灵析剧创 · 智子编辑部。
+- 本包内置脚本（`../scripts/structure_check.py`、`../scripts/continuity_check.py`）以 MIT 许可发布，版权同属灵析剧创 · 智子编辑部。
 
 ## 2. 许可
 - 框架与方法论整合内容采用 **MIT 许可**（见同目录 `LICENSE.md` 与本仓库根 `LICENSE`）。
