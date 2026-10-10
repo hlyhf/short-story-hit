@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.1.1 (2026-10-10)
+- 技能包自包含补全：新增包内版权与许可副本 `skill/short-story-hit/references/COPYRIGHT.md` + `LICENSE.md`，供 SkillHub 上传时无需外部依赖。
+- `SKILL.md` 资源目录索引同步登记上述包内版权 / 许可文件。
+
 ## v2.1.0 (2026-10-10)
 - GitHub 标准布局梳理：技能包收进 `skill/short-story-hit/`，Python 工具内置 `skill/short-story-hit/scripts/` 保证自包含。
 - 品牌统一：版权人由「狮心善道 · 智子编辑部」统一为「灵析剧创 · 智子编辑部」，与 drama-studio / script-studio 体系一致（`LICENSE` / `COPYRIGHT.md` / `SKILL.md` / `README×2` / `longform-blueprint.md` 同步）。

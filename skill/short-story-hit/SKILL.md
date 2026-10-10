@@ -145,6 +145,8 @@ python3 scripts/structure_check.py 爆文.md --benchmark
 - `release-kit.md` — **发布三件套**：封面标题 + 黄金前 3 句 + 末句金句一致性 + 四平台 Checklist + 数据回收闭环
 - `longform-blueprint.md` — **5万字长-form蓝图**：品类定位+字数分配+长弧结构+人物弧光+伏笔回收表+连贯自检+防崩SOP+章级节拍器，附钟馗民俗诡异宇宙5万字示例大纲
 - `cases/` — **纯净范文库**：8 篇完整故事（覆盖 8 个情绪×关系格子）的机检干净版（无拆解注释），可直接模仿 / 搬运
+- `COPYRIGHT.md` — 包内版权说明（方法论文档与产出物署名）
+- `LICENSE.md` — 包内 MIT 许可副本（供 SkillHub 上传自包含）
 
 ### scripts/
 - `structure_check.py` — 结构体检 v3.2：ASCII 情绪曲线 + 塌陷区检测 + 逐句改写建议 + 关系推荐 + 批量检查 + 10 分评分；新增 `--benchmark` 对标拆解模式
