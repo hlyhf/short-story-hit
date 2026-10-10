@@ -1,7 +1,7 @@
 ---
 name: short-story-hit
 description: 短篇/短故事爆款创作（钩子+关系双引擎），覆盖微小说(800-2000字)到5万字中篇全谱系。当用户写短篇、短故事、微小说、5万字中篇、爆款故事，或提到「下钩子」「开篇抓人」「关系张力」「反转」「爽点」「虐点」「伏笔回收」「情节连贯」时触发。不适用于50万字+长篇小说（用 novel-creation-sop）、剧本/分镜（用 drama-studio）。
-version: 2.0.0
+version: 2.1.1
 author: 灵析剧创 · 智子编辑部 (ima.copilot)
 license: MIT
 platforms: [linux, macos, windows]
